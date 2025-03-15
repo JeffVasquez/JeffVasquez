@@ -139,7 +139,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>اQue la paz, la misericordia y las bendiciones de Dios sean con ustedes....✨</b>
 
 </div>
 <br>
@@ -151,6 +151,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Jeffvax]()
 
-Last Edited on: 09/11/2022
+Last Edited on: 15/03/2024
