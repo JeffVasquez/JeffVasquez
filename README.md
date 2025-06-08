@@ -48,9 +48,9 @@
 
 - **Cloud Hosting**:
 
+    ![Wordpress Pages](https://img.shields.io/badge/Wordpress%20-%20Php%20-%20blue)
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![Wordpress](https://giphy.com/gifs/wordpressdotcom-wordpress-fxKWgoOG9hzPPkE1oc)
 
 <br>
 
